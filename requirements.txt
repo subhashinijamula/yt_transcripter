@@ -1,0 +1,11 @@
+streamlit
+youtube_transcript_api 
+YouTubeTranscriptApi 
+TranscriptsDisabled 
+NoTranscriptFound
+pandas 
+os
+zipfile
+io 
+BytesIO
+tempfile
