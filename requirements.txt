@@ -1,10 +1,4 @@
 streamlit
-YouTubeTranscriptApi 
-TranscriptsDisabled 
-NoTranscriptFound
-pandas 
-os
-zipfile
-io 
-BytesIO
-tempfile
+youtube-transcript-api
+pandas
+openpyxl
